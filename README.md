@@ -1,7 +1,3 @@
-Perfeito! Agora que você já confirmou o nome do seu usuário no GitHub, aqui está como o `README.md` atualizado deve ficar, já com o link correto para o seu repositório:
-
----
-
 ```markdown
 # 📈 Previsão de Vendas - Superstore
 
